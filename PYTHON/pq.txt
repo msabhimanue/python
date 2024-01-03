@@ -1,0 +1,18 @@
+                                                                         Practice questions
+write a program to find the sum of elements in a list of numbers?
+create a list of numbers perform the following operations:
+i) smallest number from the list
+ii) largest number from the list
+iii) remove duplicate from the list
+iv) append a list of numbers to existing list
+input a string and perform the following operations
+i) length of the string
+ii) reverse a string
+iii) replace all occurence of the first character with dollar symbol except the first character
+iv) input another string concatenate the 2 strings
+create a dictionary of item number and item name sort the dictionary in ascending and descending order of item names
+create a package shapes with modules square and rectangle and sub package new shaped with modules triangle and circle include methods to find the area of the respective figure in each module.write programs to find the area of the figures by importing or by using import statement
+create a class time with private attributes hour minute and second find the sum of two times.
+create a class student with members roll no.,name,course and total mark.write constructor and methods to add ten marks to all students with total mark greater than 400.
+write a program to create a file with names of 10 students.read the file and store it into a list
+create a csv file with student no. name and course.read specific columns of the csv file and print the contents of the colons.
